@@ -1,0 +1,43 @@
+*{
+    margin: 0% auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(214, 215, 221);
+}
+
+#menu_3{
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    background-color: #08142e;
+}
+
+#menu_3 ul li{
+    display: inline;
+    padding: 40px;
+    
+}
+
+#menu_3 ul li a{
+    color: #fff;
+    padding: 30px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#menu_3 ul li a:hover {
+    color: #7dd6f7;
+   
+}
+
+h2 {
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
